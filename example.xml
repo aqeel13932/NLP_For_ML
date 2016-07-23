@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE note [
+<!ELEMENT genre (#PCDATA)>
+<!ATTLIST genre label (Action | Adventure | Animation | Biography| Comedy | Crime | Documentary | Drama | Family | Fantasy | Film-Noir | Game-Show | History | Horror | Music | Musical | Mystery | News | Reality-TV | Romance | Sci-Fi | Sport | Talk-Show | Thriller | War | Western)
+]>
+<genre label="Mystery">
+  this is a movie about something no bodey know spooky isn't it :D 
+</genre>
